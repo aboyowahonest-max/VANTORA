@@ -1,4 +1,4 @@
-# VANTORA — virtual asset simulation (demo credits only, no real money)
+# VANTORA — virtual asset simulation
 
 ## 1. Supabase
 1. Create a project at supabase.com.
